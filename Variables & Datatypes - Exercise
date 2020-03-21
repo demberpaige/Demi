@@ -1,0 +1,11 @@
+print('Variables & Datatypes - Exercise')
+#Create appropriate Variables for Item name, the price 
+#and how many you have in stock
+print('Cookies, $1, 100')
+
+featured_cookie='oatmeal.'
+inventory='100'
+
+print('Our featured cookie today is ' + featured_cookie)
+print('You can purchase 3 cookies for $1')
+print('Our inventory allows us to sell ' + inventory + ' cookies.')
